@@ -1,9 +1,9 @@
-/* 
-    Author     : abhijithvijayan
-    Created on : 19 Oct 19, 13:00
-    title      : comment or not    
-    Aim        : Check if entered string is a comment or not
-*/
+/**
+ *  Author     : abhijithvijayan
+ *  Created on : 19 Oct 19, 13:00
+ *  Title      : comment or not    
+ *  Aim        : Check if entered string is a comment or not
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
